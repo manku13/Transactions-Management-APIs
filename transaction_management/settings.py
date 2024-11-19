@@ -29,7 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "localhost",
-    "transactions-api.onrender.com"
+    "transactions-api-dj75.onrender.com"
 ]
 
 
